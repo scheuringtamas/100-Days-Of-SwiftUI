@@ -7,10 +7,10 @@ https://www.hackingwithswift.com/100/swiftui
 
 Projects                                                                                                                                                          
 ---                                                                                                                                                                         
-[Project 1](WeSplit) - WeSplit (with challenges)
+- [Project 1](WeSplit) - WeSplit (with challenges)
 
-[Challenge Day 1](UnitConverter) - Unit Converter 
+- [Challenge Day 1](UnitConverter) - Unit Converter 
 
-[Project 2](GuessTheFlag) - Guess the Flag (with challenges)
+- [Project 2](GuessTheFlag) - Guess the Flag (with challenges)
 
-[Project 3](ViewsAndModifiers) - Views and Modifiers (with challenges)
+- [Project 3](ViewsAndModifiers) - Views and Modifiers (with challenges)
