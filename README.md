@@ -1,4 +1,4 @@
-# 100-days-of-swiftui
+# 100 Days of SwiftUI
 
 Solutions to Paul Hudson's "100 days of SwiftUI" projects and challenges.
 
