@@ -12,3 +12,4 @@ Projects / Topics                                                               
 ---                                                                                                                                                                          |---
 [Project 1](WeSplit) - *WeSplit* <br/>(with challenges)                                         <br/><sub> Form, Section, NavigationView, @State property wrapper, TextField, Picker, ForEach </sub> | ![screen1](WeSplit/Screenshots/WeSplit_small.jpeg) |
 [Challenge Day 1](UnitConverter) - *Unit Converter*  | ![screen1](UnitConverter/Screenshots/UnitConverter_small.png)  |
+[Project 2](GuessTheFlag) - *Guess the Flag* <br/>(with challenges)                                         <br/><sub> VStack, Image, LinearGradient, Alert </sub> | ![screen1](GuessTheFlag/Screenshots/GuessTheFlag_small.png) |
