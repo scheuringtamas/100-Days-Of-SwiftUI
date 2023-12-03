@@ -17,4 +17,4 @@ Projects
 
 - [Milestone Projects 1-3](RockPaperScissors) - Rock Paper Scissors
 
-- [Project 4](BetterRest) - BetterRest
+- [Project 4](BetterRest) - BetterRest (with challenges)
