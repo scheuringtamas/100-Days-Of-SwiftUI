@@ -2,7 +2,6 @@
 
 A simple SwiftUI app for converting measurements between meters, kilometers, feet, yards, and miles.
 
-https://www.hackingwithswift.com/100/swiftui/19
 
 ## Challenge
 
