@@ -1,5 +1,13 @@
 # Project 4 - BetterRest
 
+This app is designed to help coffee drinkers get a good night’s sleep by asking them three questions:
+
+1. When do they want to wake up?
+2. Roughly how many hours of sleep do they want?
+3. How many cups of coffee do they drink per day?
+
+Once you have those three values, you will feed them into Core ML to get a result telling you when you ought to go to bed.
+
 https://www.hackingwithswift.com/100/swiftui/26
 
 Includes solutions to the [challenges](https://www.hackingwithswift.com/books/ios-swiftui/betterrest-wrap-up).
