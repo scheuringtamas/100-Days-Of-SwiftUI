@@ -18,3 +18,5 @@ Projects
 - [Milestone Projects 1-3](RockPaperScissors) - Rock Paper Scissors
 
 - [Project 4](BetterRest) - BetterRest (with challenges)
+
+- [Project 5](WordScramble) - WordScramble (with challenges)
