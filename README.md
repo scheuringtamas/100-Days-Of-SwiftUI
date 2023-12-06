@@ -20,3 +20,5 @@ Projects
 - [Project 4](BetterRest) - BetterRest (with challenges)
 
 - [Project 5](WordScramble) - WordScramble (with challenges)
+
+- [Project 6](Animations) - Animations (with challenges)
