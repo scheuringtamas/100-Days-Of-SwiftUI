@@ -15,7 +15,7 @@ Projects
 
 - [Project 3](ViewsAndModifiers) - Views and Modifiers (with challenges)
 
-- [Milestone Projects 1-3](RockPaperScissors) - Rock Paper Scissors
+- [Milestone: Projects 1-3](RockPaperScissors) - Rock Paper Scissors
 
 - [Project 4](BetterRest) - BetterRest (with challenges)
 
