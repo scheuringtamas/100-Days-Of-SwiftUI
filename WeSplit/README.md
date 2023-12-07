@@ -1,6 +1,5 @@
 # Project 1 - WeSplit
 
-
 This a check-splitting app. You input the cost of your food, choose the tip percentage, specify the number of people in your group, and the app will calculate the amount each person needs to pay.
 
 https://www.hackingwithswift.com/100/swiftui/16
