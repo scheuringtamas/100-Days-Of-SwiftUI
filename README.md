@@ -24,3 +24,5 @@ Projects
 - [Project 6](Animations) - Animations (with challenges)
 
 - [Milestone: Projects 4-6](MultiplicationTable) - Multiplication Table (with challenges)
+
+- [Project 7](iExpense) - iExpense (with challenges)
