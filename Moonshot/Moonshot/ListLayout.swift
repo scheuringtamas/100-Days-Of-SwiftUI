@@ -43,7 +43,7 @@ struct ListLayout: View {
             .listRowBackground(Color.darkBackground)
         }
         .listStyle(.plain)
-        .background(Color.darkBackground.edgesIgnoringSafeArea(.all)) // Set background color for the entire view
+        .background(Color.darkBackground.edgesIgnoringSafeArea(.all))
 
 
     }
