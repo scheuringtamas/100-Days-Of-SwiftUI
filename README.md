@@ -28,3 +28,5 @@ Projects
 - [Project 7](iExpense) - iExpense (with challenges)
 
 - [Project 8](Moonshot) - Moonshot (with challenges)
+
+- [Project 9](Navigation) - Navigation (with challenges)
