@@ -30,3 +30,5 @@ Projects
 - [Project 8](Moonshot) - Moonshot (with challenges)
 
 - [Project 9](Navigation) - Navigation (with challenges)
+
+- [Milestone: Projects 7-9](HabitTracking) - Habit tracking (with challenges)
