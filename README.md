@@ -1,9 +1,6 @@
 # 100 Days of SwiftUI
 
-Solutions to Paul Hudson's 100 days of SwiftUI projects and challenges.
-
-https://www.hackingwithswift.com/100/swiftui
-
+Solutions to Paul Hudson's [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) projects and challenges.
 
 Projects                                                                                                                                                          
 ---                                                                                                                                                                        
