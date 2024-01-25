@@ -29,3 +29,5 @@ Projects
 - [Project 9](Navigation) - Navigation (with challenges)
 
 - [Milestone: Projects 7-9](HabitTracking) - Habit tracking (with challenges)
+
+- [Project 10](CupcakeCorner) - Cupcake Corner (with challenges)
