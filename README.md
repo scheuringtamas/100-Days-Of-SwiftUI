@@ -31,3 +31,5 @@ Projects
 - [Milestone: Projects 7-9](HabitTracking) - Habit tracking (with challenges)
 
 - [Project 10](CupcakeCorner) - Cupcake Corner (with challenges)
+
+- [Project 11](Bookworm) - Bookworm (with challenges)
