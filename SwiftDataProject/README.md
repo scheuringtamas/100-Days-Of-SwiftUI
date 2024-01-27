@@ -7,6 +7,8 @@ This project aims to delve deeper into SwiftData, beginning with an overview of 
 editing SwiftData objects with SwiftUI, filtering data using #Predicate, NSPredicate, changing fetch requests dynamically, creating relationships
 
 ## Challenges
+Includes solutions to the challenges.
+
 From [Hacking with Swift](https://www.hackingwithswift.com/books/ios-swiftui/swiftdata-wrap-up):
 
 All three of these challenges relate to you upgrade Project 7 - iExpense:
