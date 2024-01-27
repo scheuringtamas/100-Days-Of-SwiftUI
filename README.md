@@ -33,3 +33,5 @@ Projects
 - [Project 10](CupcakeCorner) - Cupcake Corner (with challenges)
 
 - [Project 11](Bookworm) - Bookworm (with challenges)
+
+- [Project 12](SwiftDataProject) - SwiftDataProject (with challenges)
