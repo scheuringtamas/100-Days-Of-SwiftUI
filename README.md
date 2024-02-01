@@ -37,3 +37,5 @@ Projects
 - [Project 12](SwiftDataProject) - SwiftDataProject
 
 - [Milestone: Projects 10-12](Friendface) - Friendface
+
+- [Friendface part 2](Friendface2) - Friendface part 2
