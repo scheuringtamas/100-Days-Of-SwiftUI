@@ -4,34 +4,36 @@ Solutions to Paul Hudson's [100 days of SwiftUI](https://www.hackingwithswift.co
 
 Projects                                                                                                                                                          
 ---                                                                                                                                                                        
-- [Project 1](WeSplit) - WeSplit (with challenges)
+- [Project 1](WeSplit) - WeSplit
 
 - [Challenge Day 1](UnitConverter) - Unit Converter 
 
-- [Project 2](GuessTheFlag) - Guess the Flag (with challenges)
+- [Project 2](GuessTheFlag) - Guess the Flag
 
-- [Project 3](ViewsAndModifiers) - Views and Modifiers (with challenges)
+- [Project 3](ViewsAndModifiers) - Views and Modifiers
 
 - [Milestone: Projects 1-3](RockPaperScissors) - Rock Paper Scissors
 
-- [Project 4](BetterRest) - BetterRest (with challenges)
+- [Project 4](BetterRest) - BetterRest
 
-- [Project 5](WordScramble) - Word Scramble (with challenges)
+- [Project 5](WordScramble) - Word Scramble
 
-- [Project 6](Animations) - Animations (with challenges)
+- [Project 6](Animations) - Animations
 
-- [Milestone: Projects 4-6](MultiplicationTable) - Multiplication Table (with challenges)
+- [Milestone: Projects 4-6](MultiplicationTable) - Multiplication Table
 
-- [Project 7](iExpense) - iExpense (with challenges)
+- [Project 7](iExpense) - iExpense
 
-- [Project 8](Moonshot) - Moonshot (with challenges)
+- [Project 8](Moonshot) - Moonshot
 
-- [Project 9](Navigation) - Navigation (with challenges)
+- [Project 9](Navigation) - Navigation
 
-- [Milestone: Projects 7-9](HabitTracking) - Habit tracking (with challenges)
+- [Milestone: Projects 7-9](HabitTracking) - Habit tracking
 
-- [Project 10](CupcakeCorner) - Cupcake Corner (with challenges)
+- [Project 10](CupcakeCorner) - Cupcake Corner
 
-- [Project 11](Bookworm) - Bookworm (with challenges)
+- [Project 11](Bookworm) - Bookworm
 
-- [Project 12](SwiftDataProject) - SwiftDataProject (with challenges)
+- [Project 12](SwiftDataProject) - SwiftDataProject
+
+- [Milestone: Projects 10-12](Friendface) - Friendface
