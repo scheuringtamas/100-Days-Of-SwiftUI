@@ -34,7 +34,7 @@ Projects
 
 - [Project 11](Bookworm) - Bookworm
 
-- [Project 12](SwiftDataProject) - SwiftDataProject
+- [Project 12](SwiftDataProject) - SwiftData
 
 - [Milestone: Projects 10-12](Friendface) - Friendface
 
