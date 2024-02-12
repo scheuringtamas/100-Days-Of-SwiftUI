@@ -45,3 +45,5 @@ Projects
 - [Project 14](BucketList) - Bucket List
 
 - [Project 15](AccessibilitySandbox) - Accessibility
+
+- [Milestone: Projects 13-15](EventContacts) - EventContacts
