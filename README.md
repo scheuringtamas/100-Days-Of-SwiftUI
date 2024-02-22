@@ -53,3 +53,5 @@ Projects
 - [Project 17](Flashzilla) - Flashzilla
 
 - [Project 18](LayoutAndGeometry) - Layout and geometry
+
+- [Milestone: Projects 16-18](RollDice) - Dice Roller
