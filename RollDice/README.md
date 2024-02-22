@@ -22,6 +22,6 @@ While you’re working, please take a moment to remember the accessibility of yo
 
 ## Screenshots
 
-<img src="/EventContacts/Screenshots/EventContacts.gif" width="300"/>
+<img src="/RollDice/Screenshots/RollDice.gif" width="300"/>
 
 
