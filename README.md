@@ -57,3 +57,6 @@ Projects
 - [Milestone: Projects 16-18](RollDice) - Dice Roller
 
 - [Project 19](SnowSeeker) - SnowSeeker
+
+## Certificate
+<img src="/100DaysOfSwiftUI_Certificate.jpg" width="700"/>
