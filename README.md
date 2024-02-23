@@ -55,3 +55,5 @@ Projects
 - [Project 18](LayoutAndGeometry) - Layout and geometry
 
 - [Milestone: Projects 16-18](RollDice) - Dice Roller
+
+- [Project 19](SnowSeeker) - SnowSeeker
